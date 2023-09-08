@@ -21,8 +21,6 @@ skip_list:
   - 'name[casing]'
   - 'risky-file-permissions'
   - 'risky-shell-pipe'
-  - 'galaxy[no-changelog]'
-  - 'galaxy[version-incorrect]'
   - 'ignore-errors'
   - 'no-changed-when'
   - 'no-handler'
